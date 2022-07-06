@@ -33,14 +33,6 @@
     </item>
     
     <item>
-      <title>High-dimensional online changepoint detection</title>
-      <link>https://yudongchen88.github.io/publication/phd_thesis/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://yudongchen88.github.io/publication/phd_thesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Attending the ICMS workshop and the IMS Annual Meeting (May/June 2022)</title>
       <link>https://yudongchen88.github.io/post/attending_icms_ims/</link>
       <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
@@ -74,6 +66,14 @@
       <guid>https://yudongchen88.github.io/publication/ocd_inference/</guid>
       <description>&lt;p&gt;Implementation code is available from &lt;a href=&#34;https://github.com/yudongchen88/ocd_CI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>High-dimensional online changepoint detection</title>
+      <link>https://yudongchen88.github.io/publication/phd_thesis/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://yudongchen88.github.io/publication/phd_thesis/</guid>
+      <description></description>
     </item>
     
     <item>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Yudong Chen</title>
+    <link>https://yudongchen88.github.io/yudong_homepage/publication-type/3/</link>
+      <atom:link href="https://yudongchen88.github.io/yudong_homepage/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yudongchen88.github.io/yudong_homepage/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>3</title>
+      <link>https://yudongchen88.github.io/yudong_homepage/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Inference in high-dimensional online changepoint detection</title>
+      <link>https://yudongchen88.github.io/yudong_homepage/publication/ocd_inference/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://yudongchen88.github.io/yudong_homepage/publication/ocd_inference/</guid>
+      <description>&lt;p&gt;Implementation code is available from &lt;a href=&#34;https://github.com/yudongchen88/ocd_CI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

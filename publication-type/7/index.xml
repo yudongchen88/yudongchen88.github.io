@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>7 | Yudong Chen</title>
-    <link>https://yudongchen88.github.io/yudong_homepage/publication-type/7/</link>
-      <atom:link href="https://yudongchen88.github.io/yudong_homepage/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yudongchen88.github.io/publication-type/7/</link>
+      <atom:link href="https://yudongchen88.github.io/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
     <description>7</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yudongchen88.github.io/yudong_homepage/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://yudongchen88.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>7</title>
-      <link>https://yudongchen88.github.io/yudong_homepage/publication-type/7/</link>
+      <link>https://yudongchen88.github.io/publication-type/7/</link>
     </image>
     
     <item>
       <title>High-dimensional online changepoint detection</title>
-      <link>https://yudongchen88.github.io/yudong_homepage/publication/phd_thesis/</link>
+      <link>https://yudongchen88.github.io/publication/phd_thesis/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://yudongchen88.github.io/yudong_homepage/publication/phd_thesis/</guid>
+      <guid>https://yudongchen88.github.io/publication/phd_thesis/</guid>
       <description></description>
     </item>
     

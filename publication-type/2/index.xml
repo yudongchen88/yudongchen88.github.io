@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Yudong Chen</title>
-    <link>https://yudongchen88.github.io/yudong_homepage/publication-type/2/</link>
-      <atom:link href="https://yudongchen88.github.io/yudong_homepage/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yudongchen88.github.io/publication-type/2/</link>
+      <atom:link href="https://yudongchen88.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yudongchen88.github.io/yudong_homepage/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://yudongchen88.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
-      <link>https://yudongchen88.github.io/yudong_homepage/publication-type/2/</link>
+      <link>https://yudongchen88.github.io/publication-type/2/</link>
     </image>
     
     <item>
       <title>High-dimensional, multiscale online changepoint detection</title>
-      <link>https://yudongchen88.github.io/yudong_homepage/publication/ocd_change/</link>
+      <link>https://yudongchen88.github.io/publication/ocd_change/</link>
       <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://yudongchen88.github.io/yudong_homepage/publication/ocd_change/</guid>
+      <guid>https://yudongchen88.github.io/publication/ocd_change/</guid>
       <description>&lt;p&gt;The accompanying R package &lt;strong&gt;ocd&lt;/strong&gt; is available from &lt;a href=&#34;https://cran.r-project.org/web/packages/ocd/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRAN&lt;/a&gt; and &lt;a href=&#34;https://github.com/wangtengyao/ocd/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Toy Teichmüller spaces of real dimension 2: the pentagon and the punctured triangle</title>
-      <link>https://yudongchen88.github.io/yudong_homepage/publication/teichmuller/</link>
+      <link>https://yudongchen88.github.io/publication/teichmuller/</link>
       <pubDate>Fri, 02 Feb 2018 00:25:27 +0000</pubDate>
-      <guid>https://yudongchen88.github.io/yudong_homepage/publication/teichmuller/</guid>
+      <guid>https://yudongchen88.github.io/publication/teichmuller/</guid>
       <description></description>
     </item>
     

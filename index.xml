@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yudong Chen</title>
-    <link>https://yudongchen88.github.io/yudong_homepage/</link>
-      <atom:link href="https://yudongchen88.github.io/yudong_homepage/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yudongchen88.github.io/</link>
+      <atom:link href="https://yudongchen88.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yudong Chen</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://yudongchen88.github.io/yudong_homepage/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://yudongchen88.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Yudong Chen</title>
-      <link>https://yudongchen88.github.io/yudong_homepage/</link>
+      <link>https://yudongchen88.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://yudongchen88.github.io/yudong_homepage/talk/example-talk/</link>
+      <link>https://yudongchen88.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://yudongchen88.github.io/yudong_homepage/talk/example-talk/</guid>
+      <guid>https://yudongchen88.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,53 +34,53 @@
     
     <item>
       <title>Attending the ICMS workshop and the IMS Annual Meeting (May/June 2022)</title>
-      <link>https://yudongchen88.github.io/yudong_homepage/post/attending_icms_ims/</link>
+      <link>https://yudongchen88.github.io/post/attending_icms_ims/</link>
       <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://yudongchen88.github.io/yudong_homepage/post/attending_icms_ims/</guid>
+      <guid>https://yudongchen88.github.io/post/attending_icms_ims/</guid>
       <description>&lt;p&gt;I will attend the ICMS workshop on &lt;a href=&#34;https://www.icms.org.uk/workshops/2022/structural-breaks-and-shape-constraints&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Structural Breaks and Shape Constraints&lt;/a&gt; in Edinburgh, UK in May 2022 and give a contributed talk at the &lt;a href=&#34;https://www.imsannualmeeting-london2022.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IMS Annual Meeting&lt;/a&gt; in London, UK in June 2022.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>High-dimensional, multiscale online changepoint detection</title>
-      <link>https://yudongchen88.github.io/yudong_homepage/publication/ocd_change/</link>
+      <link>https://yudongchen88.github.io/publication/ocd_change/</link>
       <pubDate>Sun, 23 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://yudongchen88.github.io/yudong_homepage/publication/ocd_change/</guid>
+      <guid>https://yudongchen88.github.io/publication/ocd_change/</guid>
       <description>&lt;p&gt;The accompanying R package &lt;strong&gt;ocd&lt;/strong&gt; is available from &lt;a href=&#34;https://cran.r-project.org/web/packages/ocd/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRAN&lt;/a&gt; and &lt;a href=&#34;https://github.com/wangtengyao/ocd/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Joining LSE as a research officer (November 2021)</title>
-      <link>https://yudongchen88.github.io/yudong_homepage/post/joining_lse/</link>
+      <link>https://yudongchen88.github.io/post/joining_lse/</link>
       <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://yudongchen88.github.io/yudong_homepage/post/joining_lse/</guid>
+      <guid>https://yudongchen88.github.io/post/joining_lse/</guid>
       <description>&lt;p&gt;I am excited to join the Department of Statistics at the London School of Economics and Political Science as a research officer from November 2021. I am hosted by &lt;a href=&#34;https://personal.lse.ac.uk/wangt60/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tengyao Wang&lt;/a&gt;, and work on his &lt;a href=&#34;https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T02772X/2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EPSRC grant&lt;/a&gt; on &amp;lsquo;Change-point analysis in high dimensions&amp;rsquo;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Inference in high-dimensional online changepoint detection</title>
-      <link>https://yudongchen88.github.io/yudong_homepage/publication/ocd_inference/</link>
+      <link>https://yudongchen88.github.io/publication/ocd_inference/</link>
       <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://yudongchen88.github.io/yudong_homepage/publication/ocd_inference/</guid>
+      <guid>https://yudongchen88.github.io/publication/ocd_inference/</guid>
       <description>&lt;p&gt;Implementation code is available from &lt;a href=&#34;https://github.com/yudongchen88/ocd_CI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>High-dimensional online changepoint detection</title>
-      <link>https://yudongchen88.github.io/yudong_homepage/publication/phd_thesis/</link>
+      <link>https://yudongchen88.github.io/publication/phd_thesis/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://yudongchen88.github.io/yudong_homepage/publication/phd_thesis/</guid>
+      <guid>https://yudongchen88.github.io/publication/phd_thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://yudongchen88.github.io/yudong_homepage/slides/example/</link>
+      <link>https://yudongchen88.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://yudongchen88.github.io/yudong_homepage/slides/example/</guid>
+      <guid>https://yudongchen88.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -204,17 +204,17 @@ if porridge == &amp;quot;blueberry&amp;quot;:
     
     <item>
       <title>Toy Teichmüller spaces of real dimension 2: the pentagon and the punctured triangle</title>
-      <link>https://yudongchen88.github.io/yudong_homepage/publication/teichmuller/</link>
+      <link>https://yudongchen88.github.io/publication/teichmuller/</link>
       <pubDate>Fri, 02 Feb 2018 00:25:27 +0000</pubDate>
-      <guid>https://yudongchen88.github.io/yudong_homepage/publication/teichmuller/</guid>
+      <guid>https://yudongchen88.github.io/publication/teichmuller/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Project</title>
-      <link>https://yudongchen88.github.io/yudong_homepage/project/example/</link>
+      <link>https://yudongchen88.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://yudongchen88.github.io/yudong_homepage/project/example/</guid>
+      <guid>https://yudongchen88.github.io/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -225,9 +225,9 @@ if porridge == &amp;quot;blueberry&amp;quot;:
     
     <item>
       <title></title>
-      <link>https://yudongchen88.github.io/yudong_homepage/admin/config.yml</link>
+      <link>https://yudongchen88.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yudongchen88.github.io/yudong_homepage/admin/config.yml</guid>
+      <guid>https://yudongchen88.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     

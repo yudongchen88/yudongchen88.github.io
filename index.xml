@@ -33,6 +33,15 @@
     </item>
     
     <item>
+      <title>Inference in high-dimensional online changepoint detection</title>
+      <link>https://yudongchen88.github.io/publication/ocd_inference/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://yudongchen88.github.io/publication/ocd_inference/</guid>
+      <description>&lt;p&gt;Implementation code is available from &lt;a href=&#34;https://github.com/yudongchen88/ocd_CI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Attending the ICMS workshop and the IMS Annual Meeting (May/June 2022)</title>
       <link>https://yudongchen88.github.io/post/attending_icms_ims/</link>
       <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
@@ -56,15 +65,6 @@
       <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://yudongchen88.github.io/post/joining_lse/</guid>
       <description>&lt;p&gt;I am excited to join the Department of Statistics at the London School of Economics and Political Science as a research officer from November 2021. I am hosted by &lt;a href=&#34;https://personal.lse.ac.uk/wangt60/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tengyao Wang&lt;/a&gt;, and work on his &lt;a href=&#34;https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T02772X/2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EPSRC grant&lt;/a&gt; on &amp;lsquo;Change-point analysis in high dimensions&amp;rsquo;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Inference in high-dimensional online changepoint detection</title>
-      <link>https://yudongchen88.github.io/publication/ocd_inference/</link>
-      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://yudongchen88.github.io/publication/ocd_inference/</guid>
-      <description>&lt;p&gt;Implementation code is available from &lt;a href=&#34;https://github.com/yudongchen88/ocd_CI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

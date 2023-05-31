@@ -5,12 +5,20 @@
     <link>https://yudongchen88.github.io/publication/</link>
       <atom:link href="https://yudongchen88.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 31 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yudongchen88.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://yudongchen88.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Robust mean change point testing in high-dimensional data with heavy tails</title>
+      <link>https://yudongchen88.github.io/publication/robust_change/</link>
+      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://yudongchen88.github.io/publication/robust_change/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Inference in high-dimensional online changepoint detection</title>

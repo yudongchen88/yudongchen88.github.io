@@ -5,12 +5,21 @@
     <link>https://yudongchen88.github.io/post/</link>
       <atom:link href="https://yudongchen88.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 30 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yudongchen88.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://yudongchen88.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Working as an LSE Fellow (September 2023)</title>
+      <link>https://yudongchen88.github.io/post/lse_fellow/</link>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://yudongchen88.github.io/post/lse_fellow/</guid>
+      <description>&lt;p&gt;I am excited to announce that I will work as an LSE Fellow in the Department of Statistics at the London School of Economics and Political Science from September 2023. I will teach seminars, example classes and practical sessions for a number of undegraduate and graduate level courses in statistics and data science.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Attending the ICMS workshop and the IMS Annual Meeting (May/June 2022)</title>

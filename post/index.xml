@@ -5,12 +5,21 @@
     <link>https://yudongchen88.github.io/post/</link>
       <atom:link href="https://yudongchen88.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yudongchen88.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://yudongchen88.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Joining Warwick in September 2024</title>
+      <link>https://yudongchen88.github.io/post/joining_warwick/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://yudongchen88.github.io/post/joining_warwick/</guid>
+      <description>&lt;p&gt;I will be joining the Department of Statistics, University of Warwick as an Assistant Professor from September 2024.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Working as an LSE Fellow (September 2023)</title>

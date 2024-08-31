@@ -5,7 +5,7 @@
     <link>https://yudongchen88.github.io/publication/</link>
       <atom:link href="https://yudongchen88.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yudongchen88.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,9 +13,18 @@
     </image>
     
     <item>
+      <title>Inference in high-dimensional online changepoint detection</title>
+      <link>https://yudongchen88.github.io/publication/ocd_inference/</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://yudongchen88.github.io/publication/ocd_inference/</guid>
+      <description>&lt;p&gt;Implementation code is available from &lt;a href=&#34;https://github.com/yudongchen88/ocd_CI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Discussion of Automatic Change-Point Detection in Time Series via Deep Learning by Jie Li, Paul Fearnhead, Piotr Fryzlewicz and Tengyao Wang</title>
       <link>https://yudongchen88.github.io/publication/autocpd_discuss/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://yudongchen88.github.io/publication/autocpd_discuss/</guid>
       <description></description>
     </item>
@@ -26,15 +35,6 @@
       <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
       <guid>https://yudongchen88.github.io/publication/robust_change/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Inference in high-dimensional online changepoint detection</title>
-      <link>https://yudongchen88.github.io/publication/ocd_inference/</link>
-      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://yudongchen88.github.io/publication/ocd_inference/</guid>
-      <description>&lt;p&gt;Implementation code is available from &lt;a href=&#34;https://github.com/yudongchen88/ocd_CI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>

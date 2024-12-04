@@ -5,12 +5,20 @@
     <link>https://yudongchen88.github.io/publication/</link>
       <atom:link href="https://yudongchen88.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yudongchen88.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://yudongchen88.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Inference on dynamic spatial autoregressive models with change point detection</title>
+      <link>https://yudongchen88.github.io/publication/dynamic_spatial_ar/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://yudongchen88.github.io/publication/dynamic_spatial_ar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Inference in high-dimensional online changepoint detection</title>

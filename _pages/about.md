@@ -11,11 +11,14 @@ I am an Assistant Professor in the [Department of Statistics](https://warwick.ac
 
 <p><strong>Research Interests</strong></p>
 
-<div style="column-count: 2; column-gap: 2rem;">
+<div style="display:grid; grid-template-columns:1fr 1fr; gap:2rem;">
   <ul>
     <li>High-dimensional statistics</li>
     <li>Changepoint detection</li>
     <li>Robust statistics</li>
+  </ul>
+
+  <ul>
     <li>Online algorithms</li>
     <li>Spatial econometrics</li>
     <li>Large Language Models</li>

@@ -12,9 +12,12 @@ I am an Assistant Professor in the [Department of Statistics](https://warwick.ac
 
 **Research Interests**
 
-- Change-point detection
+- High-dimensional statistics
+- Changepoint detection
 - Robust statistics
-- High-dimensional inference
+- Online algorithms
+- Spatial econometrics
+- Large Language Models
 
 
 **Education**

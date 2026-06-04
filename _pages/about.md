@@ -10,30 +10,27 @@ redirect_from:
 I am an Assistant Professor in the [Department of Statistics](https://warwick.ac.uk/fac/sci/statistics/), Univeristy of Warwick. From 2021 to 2023, I was a postdoctoral researcher, hosted by [Tengyao Wang](https://personal.lse.ac.uk/wangt60/) and then an LSE Fellow from 2023 to 2024 at the London School of Economics and Political Science. I completed my PhD in Statistics at the University of Cambridge, supervised by [Richard J. Samworth]({http://www.statslab.cam.ac.uk/~rjs57/) and [Tengyao Wang](https://personal.lse.ac.uk/wangt60/), with the thesis title *High-dimensional Online Changepoint Detection*. My research interests include changepoint detection, high-dimensional statistics, robust statistics, online algorithms, spatial econometrics and large language models.
 
 
-<div style="display:flex;">
-
-<div style="width:50%; padding-right:20px;">
-
-### Research Interests
+**Research Interests**
 
 - Change-point detection
 - Robust statistics
 - High-dimensional inference
 
-</div>
 
-<div style="width:50%;">
+**Education**
 
-### Recent News
+- PhD in Statistics, 2023 (approved in 2022)  
+  University of Cambridge
 
-- ICML paper accepted
-- LMS Summer School 2026
-- New preprint uploaded
+- MA, 2023  
+  University of Cambridge
 
-</div>
+- MMath in Mathematics, 2018  
+  University of Cambridge
 
-</div>
-
+- BA in Mathematics, 2018  
+  University of Cambridge
+  
 <!--This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
 % You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!

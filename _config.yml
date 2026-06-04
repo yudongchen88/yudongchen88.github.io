@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Yudong Chen"
 title_separator          : "-"
 name                     : "Yudong Chen"
-description              : &description "Yudong Chen's academic personal page"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : "Yudong Chen's academic personal page"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://yudongchen88.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Yudong Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Assistant Professor in Statistics"
   location         : "Coventry, United Kingdom"
   employer         : "University of Warwick"
   uri              : # URL

@@ -15,7 +15,7 @@ profile:
     <p>University of Warwick</p>
     <p>Coventry, CV4 7AL</p>
 
-selected_papers: false
+selected_papers: true
 social: true
 
 announcements:
@@ -40,11 +40,3 @@ I completed my PhD in Statistics at the University of Cambridge, supervised by [
 - Machine learning
 - Spatial econometrics
 - Large language models
-
-## Selected publications
-
-<div class="publications">
-
-{% bibliography --query @*[selected=true]* %}
-
-</div>

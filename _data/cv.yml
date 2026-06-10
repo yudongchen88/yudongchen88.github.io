@@ -1,0 +1,91 @@
+cv:
+  name: Yudong Chen
+  label: Assistant Professor in Statistics
+  email: yudong.chen@warwick.ac.uk
+  location: Coventry, United Kingdom
+  image: /assets/img/profile.jpg
+  summary: Assistant Professor in the Department of Statistics, University of Warwick.
+
+  social_networks:
+    - network: GitHub
+      username: yudongchen88
+    - network: LinkedIn
+      username: yudongchen-88
+
+  sections:
+    Education:
+      - institution: University of Cambridge
+        area: Statistics
+        studyType: PhD
+        end_date: 2023
+        summary: Approved in 2022. Thesis title, High-dimensional Online Changepoint Detection.
+      - institution: University of Cambridge
+        studyType: MA
+        end_date: 2023
+      - institution: University of Cambridge
+        area: Mathematics
+        studyType: MMath
+        end_date: 2018
+      - institution: University of Cambridge
+        area: Mathematics
+        studyType: BA
+        end_date: 2018
+
+    Experience:
+      - company: University of Cambridge
+        position: Statistics Clinic Consultant/Organiser
+        location: Cambridge
+        start_date: 2018-10
+        end_date: 2021-12
+        summary: Offered free statistical and practical consulting to Cambridge university members from a range of departments; organised clinic sessions, arranged helpers, responded to client queries, collected feedback, and updated the clinic website.
+      - company: University of Cambridge
+        position: Undergraduate Supervisor
+        location: Cambridge
+        start_date: 2018-10
+        end_date: 2021-06
+        summary: Small group undergraduate teaching for mathematics students at Cambridge. Courses included IB Statistics and II Principles of Statistics.
+      - company: Harvard Summit for Young Leaders in China (HSYLC)
+        position: Teaching Assistant
+        location: Shanghai
+        start_date: 2015-08
+        end_date: 2015-08
+        summary: Designed and supported a Harvard-style seminar on Case Studies in Modern Architecture, and led a 30-student team in intensive leadership and teamwork challenges.
+      - company: Jardine Matheson
+        position: Summer Intern in Group IT and Group HR
+        location: Hong Kong
+        start_date: 2014-07
+        end_date: 2014-08
+        summary: Helped complete feasibility study reports, proofread and improved conference timetables, contacted hotels and companies, tested the conference system, and drafted intranet homepage design research.
+
+    Awards:
+      - title: Class Teacher Award
+        awarder: London School of Economics
+        date: 2023
+      - title: Smith-Knight Essay Prize
+        awarder: Faculty of Mathematics, University of Cambridge
+        date: 2020
+      - title: Jardine Foundation Scholarship
+        awarder: Jardine Matheson
+        date: 2014
+        summary: 2014-2018
+      - title: Henry Cavendish Scholar in Mathematics
+        awarder: Peterhouse
+        date: 2017
+      - title: Senior Burkill Prize for Mathematics
+        awarder: Peterhouse
+        date: 2016
+        summary: 2016-2017
+
+    Skills:
+      - name: Research interests
+        keywords: High-dimensional statistics, Changepoint detection, Robust statistics, Online algorithms, Machine learning
+      - name: Programming
+        keywords: R, Python, Matlab, C++
+
+    Service:
+      - title: Referee service
+        summary: Reviewed for Annals of Statistics, Journal of the Royal Statistical Society Series B, Biometrika, Annals of Applied Statistics, Bernoulli and Journal of Computational and Graphical Statistics.
+
+    Interests:
+      - name: Hobbies
+        keywords: Piano, ukulele, swimming, table tennis, baseball, travelling

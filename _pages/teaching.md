@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Teaching at Warwick, LSE, and Cambridge.
+title: Teaching
+description:
 nav: true
 nav_order: 4
 ---
@@ -11,7 +11,9 @@ nav_order: 4
 
 As module leader:
 
-- [ST420 Statistical Learning and Big Data](https://warwick.ac.uk/fac/sci/statistics/currentstudents/modules/st420), 2024/25. Please use the Warwick Moodle course page to access relevant course materials.
+- [ST420 Statistical Learning and Big Data](https://warwick.ac.uk/fac/sci/statistics/currentstudents/modules/st420), 2024/25, 2025/26. Please use the Warwick Moodle course page to access relevant course materials.
+
+<div style="width: 4rem; border-top: 1px solid var(--global-divider-color); margin: 2rem auto;"></div>
 
 ## London School of Economics
 

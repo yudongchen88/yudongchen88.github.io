@@ -9,6 +9,7 @@ profile:
   image: profile.jpg
   image_circular: false
   more_info: >
+    <p><a href="mailto:yudong.chen@warwick.ac.uk">yudong.chen@warwick.ac.uk</a></p>
     <p>Room 4.11, Mathematical Sciences Building</p>
     <p>Department of Statistics</p>
     <p>University of Warwick</p>
@@ -18,7 +19,7 @@ selected_papers: true
 social: true
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 4
 
@@ -28,18 +29,14 @@ latest_posts:
 
 I am an Assistant Professor in the [Department of Statistics](https://warwick.ac.uk/fac/sci/statistics/), University of Warwick. From 2021 to 2023, I was a postdoctoral researcher, hosted by [Tengyao Wang](https://personal.lse.ac.uk/wangt60/), and then an LSE Fellow from 2023 to 2024 at the London School of Economics and Political Science.
 
-I completed my PhD in Statistics at the University of Cambridge, supervised by [Richard J. Samworth](http://www.statslab.cam.ac.uk/~rjs57/) and [Tengyao Wang](https://personal.lse.ac.uk/wangt60/), with the thesis title *High-dimensional Online Changepoint Detection*. My research interests include changepoint detection, high-dimensional statistics, robust statistics, online algorithms and machine learning.
+I completed my PhD in Statistics at the University of Cambridge, supervised by [Richard J. Samworth](http://www.statslab.cam.ac.uk/~rjs57/) and [Tengyao Wang](https://personal.lse.ac.uk/wangt60/), with the thesis title *High-dimensional Online Changepoint Detection*. My research interests include changepoint detection, high-dimensional statistics, robust statistics, online algorithms, machine learning, spatial econometrics and large language models.
 
-To students from my LSE ST202/6 classes last year requesting references: please contact me via my Warwick email.
-
-## interests
+## Interests
 
 - High-dimensional statistics
 - Changepoint detection
 - Robust statistics
 - Online algorithms
 - Machine learning
-
-## contact
-
-Email: [yudong.chen@warwick.ac.uk](mailto:yudong.chen@warwick.ac.uk)
+- Spatial econometrics
+- Large language models

@@ -18,6 +18,10 @@ profile:
 selected_papers: true
 social: true
 
+scholar:
+  sort_by: year
+  order: descending
+
 announcements:
   enabled: false
   scrollable: true

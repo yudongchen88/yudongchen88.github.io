@@ -1,0 +1,11 @@
+ICML:
+  color: "#f28c28"
+
+"ICML (spotlight)":
+  color: "#f28c28"
+
+arXiv:
+  color: "#7a6ff0"
+
+Thesis:
+  color: "#3aa78c"

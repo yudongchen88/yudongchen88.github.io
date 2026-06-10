@@ -14,7 +14,7 @@ permissions:
 
 concurrency:
   group: pages
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -28,15 +28,6 @@ jobs:
         with:
           ruby-version: "3.3.5"
           bundler-cache: true
-
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-          cache: "npm"
-
-      - name: Install JavaScript dependencies
-        run: npm ci
 
       - name: Build
         env:

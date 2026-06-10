@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Yudong Chen"
 title_separator          : "-"
 name                     : "Yudong Chen"
-description              : "Yudong Chen's academic personal page"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : "Assistant Professor in Statistics at the University of Warwick"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://yudongchen88.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "yudongchen88/yudongchen88.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yudong Chen"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor in Statistics"
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.co.uk/citations?user=xQeSZmAAAAAJ&hl=no"
+  googlescholar    : "https://scholar.google.com/citations?user=xQeSZmAAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-3034-4651"
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "yudongchen-88"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

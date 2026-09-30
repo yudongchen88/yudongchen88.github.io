@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex" />
+    <title>Pointless: UK Culture</title>
+    <style>
+      :root {
+        color-scheme: dark;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        background: #0d1226;
+        color: #f7f4ea;
+      }
+
+      body {
+        min-height: 100vh;
+        min-height: 100dvh;
+        margin: 0;
+        display: grid;
+        place-items: center;
+        padding: 1.5rem;
+        box-sizing: border-box;
+        text-align: center;
+      }
+
+      main {
+        width: min(32rem, 100%);
+      }
+
+      h1 {
+        margin: 0 0 0.75rem;
+        font-size: clamp(2rem, 8vw, 3.5rem);
+        line-height: 0.95;
+      }
+
+      p {
+        margin: 0 0 1.5rem;
+        color: #d8dced;
+        font-size: 1.05rem;
+      }
+
+      a {
+        display: inline-block;
+        padding: 0.85rem 1.2rem;
+        border-radius: 999px;
+        background: #ff4f70;
+        color: #fff;
+        font-weight: 750;
+        text-decoration: none;
+      }
+    </style>
+    <script>
+      const destination = new URL(
+        window.location.search + window.location.hash,
+        "https://pointless-game.eason-chenyudong.chatgpt.site/",
+      );
+      window.location.replace(destination.href);
+    </script>
+  </head>
+  <body>
+    <main>
+      <h1>Pointless: UK Culture</h1>
+      <p>Opening the game…</p>
+      <a id="continue" href="https://pointless-game.eason-chenyudong.chatgpt.site/">
+        Continue to the game
+      </a>
+    </main>
+    <script>
+      document.getElementById("continue").href = destination.href;
+    </script>
+  </body>
+</html>
